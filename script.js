@@ -1,2 +1,3 @@
-var textt = prompt("This is a Javascript test: ");
-console.log(textt);
+var textbox = document.getElementById("textbox");
+
+var act = 2;
